@@ -7,8 +7,4 @@
 ![Screenshot (1614)](https://user-images.githubusercontent.com/86683029/179451765-1d4abe6a-06cc-45bc-aee7-92ed619faff0.png)
 
 # React Portfolio Web Fronend Mobile View
-![m1](https://user-images.githubusercontent.com/86683029/179451816-3606ae7a-3d84-4835-b3fd-3935603d3c8f.png)
-![m2](https://user-images.githubusercontent.com/86683029/179451820-007d48cb-ed1f-475b-8b03-aaa784849c6a.png)
-![m3](https://user-images.githubusercontent.com/86683029/179451822-12655a68-d752-4e00-b3d0-84a2b6bac6f0.png)
-![m5](https://user-images.githubusercontent.com/86683029/179451828-c0a70b63-7bff-4c27-b86e-1c46558995f5.png)
-![m6](https://user-images.githubusercontent.com/86683029/179451834-10dd72ca-ef8e-41b1-8bf1-4523cb6e0d88.png)
+
